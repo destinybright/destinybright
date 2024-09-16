@@ -18,7 +18,7 @@ I’m a **undergraduate computer science student** at Oregon State University. I
 
 - **LinkedIn:** [My LinkedIn](https://www.linkedin.com/in/destiny-bright)
 - **Website:** [My Website](https://www.destinybright.com/)
-- **Email:** [My email](mailto:desjbright@gmail.com)
+- **Email:** [My Email](mailto:desjbright@gmail.com)
 
 ---
 
