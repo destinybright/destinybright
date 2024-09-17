@@ -34,4 +34,8 @@
   
 </p>
 
-### Some of my projects are available [here](https://github.com/destinybright?tab=repositories)
+<h3>I’m currently seeking software engineering internships for summer 2025. Please feel free to connect with me or send me a message!</h3>
+
+<a href="https://www.linkedin.com/in/destiny-bright/"> 
+  <img align="left" alt="Destiny's LinkedIn" width="60px" src="https://upload.wikimedia.org/wikipedia/commons/8/81/LinkedIn_icon.svg"/>
+</a>
