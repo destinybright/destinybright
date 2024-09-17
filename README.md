@@ -1,4 +1,4 @@
-<h1><img src="[https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430](https://github.com/user-attachments/assets/d5ad65f1-4df0-4fc9-9639-eee9ffa52311)" width="30"/> Hello World! Nice to meet you.</h1>
+<h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hello World! Nice to meet you.</h1>
 
 <p>My name is Destiny, and I am a Computer Science student at Oregon State University <br><br> <img src="https://images.emojiterra.com/google/noto-emoji/unicode-15.1/color/svg/1f9ab.svg" width="93"/></p>
 <h3>Things I code with</h3>
