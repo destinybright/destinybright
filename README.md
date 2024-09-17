@@ -34,6 +34,9 @@
   
 </p>
 
+<br>
+<br>
+
 <h5>I’m currently seeking software engineering internships for summer 2025. Please feel free to connect with me or send me a message!</h5>
 
 <a href="https://www.linkedin.com/in/destiny-bright/"> 
