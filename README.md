@@ -36,7 +36,7 @@
 
 <br>
 
-<h4>I’m currently seeking software engineering internships for summer 2025. Please feel free to connect with me or send me a message!</h4>
+<h3>I’m currently seeking software engineering internships for summer 2025. <br>Please feel free to connect with me or send me a message!</h3>
 
 <a href="https://www.linkedin.com/in/destiny-bright/"> 
   <img align="left" alt="Destiny's LinkedIn" width="150px" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/>
