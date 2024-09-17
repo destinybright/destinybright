@@ -1,6 +1,13 @@
 <h1><img src="https://cdn3.emoji.gg/emojis/22529-lovingshark.gif" width="70"/> Hello World! Nice to meet you.</h1>
 
 <p>My name is Destiny, and I am a Computer Science student at Oregon State University <br><br> <img src="https://images.emojiterra.com/google/noto-emoji/unicode-15.1/color/svg/1f9ab.svg" width="93"/></p>
+
+<h3>Projects</h3>
+
+| Project  | Description |
+| ------------- |-------------|
+| [Exercise Tracker](https://github.com/destinybright/exercise-app)  | An application that lets you to track exercises. Allows for input, deletion and editing.|
+
 <h3>Things I code with</h3>
 
 <p>
