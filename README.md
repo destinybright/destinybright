@@ -10,6 +10,7 @@
 | [Pooby](https://destinybright.github.io/html/index.html)  | A pet application that lets you hatch a pet, feed it, let it sleep, and let it read.|
 | [XDice](https://github.com/destinybright/Xdice)  | A mobile iOS dice application for Dungeons and Dragons. Plays fun sound effects for critical rolls.|
 | [Magic Wares](https://github.com/thatsaksyguy/cs340_webapp)  | A database that allows users to track inventory, customers, orders, and the items in each order via CRUD operations|
+| [OSRS Skill Bot](https://github.com/destinybright/osrs-skill-bot)  | A discord bot that lets users retrieve and display their Old School Runescape (OSRS) skill levels|
 
 <h3>Things I code with</h3>
 
